@@ -1,2 +1,2 @@
 # Exam-Helper
-The best tool for you to prepare for exams!
+The best tool to help you prepare any exam!
